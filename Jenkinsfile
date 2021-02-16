@@ -8,6 +8,7 @@ stage('Build')
 steps
 {
 echo 'running build phase........!'
+  echo 'harika'
 }
 }
 stage('Test')
